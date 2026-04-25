@@ -122,7 +122,7 @@ function App() {
       <footer className="footer">
         <p>
           © {new Date().getFullYear()} Free Online Tools. Built for speed,
-          simplicity, and everyday use.
+          simplicity, everyday use, and practical web utilities.
         </p>
       </footer>
     </main>
