@@ -21,7 +21,7 @@ The goal of this project is to collect useful online tools in one place, such as
 - External links to live tools
 - SEO-friendly title and content structure
 - Mobile-friendly layout
-- Built with React, Vite, and TypeScript
+- Built with React, Vite, and TypeScript.
 
 ## Tech Stack
 
