@@ -32,9 +32,9 @@ const tools: Tool[] = [
   {
     title: 'VAT Calculator',
     description:
-      'Calculate VAT, remove VAT, and convert prices including or excluding tax.',
-    status: 'Coming soon',
-    url: '#',
+      'Calculate VAT, remove VAT from a gross price, or add VAT to a net price directly in your browser.',
+    status: 'Live',
+    url: 'vat-calculator-5ds.pages.dev',
   },
 ]
 
