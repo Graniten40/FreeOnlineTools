@@ -25,9 +25,9 @@ const tools: Tool[] = [
   {
     title: 'Free Invoice Generator',
     description:
-      'Create simple invoices and export them as PDF directly from your browser.',
-    status: 'Coming soon',
-    url: '#',
+      'Create simple invoices and export them as PDF directly from your browser. Add invoice details, choose USD or EUR, save locally, and download your invoice as a PDF.',
+    status: 'Live',
+    url: 'https://invoice-generator-2bu.pages.dev/',
   },
   {
     title: 'VAT Calculator',
