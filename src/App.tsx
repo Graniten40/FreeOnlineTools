@@ -40,8 +40,8 @@ const tools: Tool[] = [
     title: 'Trading Profit Calculator',
     description:
       'Calculate potential profit, loss, leverage, fees, and risk before entering a trade.',
-    status: 'Coming soon',
-    url: '#',
+    status: 'Live',
+    url: 'https://trading-profit-calculator.pages.dev/',
   },
 ]
 
