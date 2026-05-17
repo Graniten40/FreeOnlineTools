@@ -36,6 +36,13 @@ const tools: Tool[] = [
     status: 'Live',
     url: 'https://vat-calculator-5ds.pages.dev/',
   },
+  {
+    title: 'Trading Profit Calculator',
+    description:
+      'Calculate potential profit, loss, leverage, fees, and risk before entering a trade.',
+    status: 'Coming soon',
+    url: '#',
+  },
 ]
 
 function App() {
